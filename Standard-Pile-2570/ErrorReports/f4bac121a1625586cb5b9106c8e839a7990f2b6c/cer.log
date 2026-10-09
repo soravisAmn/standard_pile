@@ -1,0 +1,54 @@
+[10/09/26 17:23:25] info     ================= cer started =================
+[10/09/26 17:23:25] info     C:\Program Files\Autodesk\AutoCAD 2027\cer.dll, 7.2.4+20251128.8f05bb68.927
+[10/09/26 17:23:25] info     Setting key SP/SDK_VERSION, value 7.2.4+20251128.8f05bb68.927 (maxCount 1)
+[10/09/26 17:23:25] info     Setting key SP/PRODUCT_NAME_HASH, value f4bac121a1625586cb5b9106c8e839a7990f2b6c (maxCount 1)
+[10/09/26 17:23:25] info     Setting key SP/RUNTIME_ARCH, value 1 (maxCount 1)
+[10/09/26 17:23:25] info     Set senddmp exe path to C:\Program Files\Autodesk\AutoCAD 2027\CER\senddmp.exe
+[10/09/26 17:23:25] info     The cer_service exe C:\Program Files\Autodesk\AutoCAD 2027\CER\service\cer_service.exe is not in folder C:\Program Files\Autodesk\AutoCAD 2027\CER\, it's not a sandbox
+[10/09/26 17:23:25] info     Set upi exe path to C:\Program Files\Autodesk\AutoCAD 2027\CER\upi.exe
+[10/09/26 17:23:25] info     launching C:\Program Files\Autodesk\AutoCAD 2027\CER\upi.exe --cmd=get-device-id C:\Users\User\AppData\Local\Temp\15FCE767F24F74D1\Temp\upi_deviceid2
+[10/09/26 17:23:26] info     Set deviceID2 to DD890CCC70D84BC7B19918D581A5ED1191427E90E6A187B1AC42C505E021CFC3&E501C38A4D9D41FA7D67B9D5B3091071996E904511557031407D5A957A3C7C9A&107742891B2F8858F321E7E121CFB7AABA89709C528C8C7E1518AC4277A77B57
+[10/09/26 17:23:26] info     Setting key SP/DEVICEID2, value DD890CCC70D84BC7B19918D581A5ED1191427E90E6A187B1AC42C505E021CFC3&E501C38A4D9D41FA7D67B9D5B3091071996E904511557031407D5A957A3C7C9A&107742891B2F8858F321E7E121CFB7AABA89709C528C8C7E1518AC4277A77B57 (maxCount 1)
+[10/09/26 17:23:26] info     Setting key SP/UUID, value f4bac121a1625586cb5b9106c8e839a7990f2b6cDD890CCC70D84BC7B19918D581A5ED1191427E90E6A187B1AC42C505E021CFC3&E501C38A4D9D41FA7D67B9D5B3091071996E904511557031407D5A957A3C7C9A&107742891B2F8858F321E7E121CFB7AABA89709C528C8C7E1518AC4277A77B57 (maxCount 1)
+[10/09/26 17:23:26] info     Set senddmp exe path to C:\Program Files\Autodesk\AutoCAD 2027\CER\senddmp.exe
+[10/09/26 17:23:26] info     The cer_service exe C:\Program Files\Autodesk\AutoCAD 2027\CER\service\cer_service.exe is not in folder C:\Program Files\Autodesk\AutoCAD 2027\CER\, it's not a sandbox
+[10/09/26 17:23:26] info     launching C:\Program Files\Autodesk\AutoCAD 2027\CER\upi.exe "C:\Program Files\Autodesk\AutoCAD 2027\C3D\en-US\UPI\upiconfig.xml" C:\Users\User\AppData\Local\Temp\15FCE767F24F74D1\Temp\upi_info.xml
+[10/09/26 17:23:26] info     Setting key SP/UPI_PRODUCT, value CIV3D (maxCount 1)
+[10/09/26 17:23:26] info     Setting key SP/UPI_RELEASE, value 2027 (maxCount 1)
+[10/09/26 17:23:26] info     Setting key SP/UPI_MASTER, value {28B89EEF-A100-0409-2102-CF3F3A09B77D} (maxCount 1)
+[10/09/26 17:23:26] info     Setting key SP/UPI_BUILD, value 13.9.1308.0 (maxCount 1)
+[10/09/26 17:23:26] info     Setting key SP/UPI_FULL_XML, value <?xml version="1.0"?><upipackage><upivalue version="1.0" type="product" requestingapp="true"><level name="productline" id="CIV3D"><level name="release" id="2027"><level name="master" id="{28B89EEF-A100-0409-2102-CF3F3A09B77D}"><level name="build" id="13.9.1308.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="PLC0000013"><level name="release" id="2022"><level name="master" id="{0197CA72-138B-4A7E-9E95-E0440AFAEE5F}"><level name="build" id="2.3.7.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id=""><level name="release" id=""><level name="master" id=""><level name="build" id=""/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="VEHTRK"><level name="release" id="2022"><level name="master" id="{D0853F5C-CD34-42A6-85B1-6788BE5F99B3}"><level name="build" id="22.0.0.2404"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ARCHDESK"><level name="release" id="2022"><level name="master" id="{28B89EEE-5104-0000-5102-CF3F3A09B77D}"><level name="build" id="8.4.49.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ACD"><level name="release" id="2022"><level name="master" id="{28B89EEF-5101-0000-0102-CF3F3A09B77D}"><level name="build" id="24.1.191.0.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ACD"><level name="release" id="2022"><level name="master" id="{28B89EEF-5101-0409-1102-CF3F3A09B77D}"><level name="build" id="24.1.191.0.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ARCHDESK"><level name="release" id="2022"><level name="master" id="{28B89EEF-5104-0000-4102-CF3F3A09B77D}"><level name="build" id="8.4.49.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id=""><level name="release" id=""><level name="master" id=""><level name="build" id="25.0.45.29"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="CIV3D"><level name="release" id="2022"><level name="master" id="{28B89EEF-5100-0000-0102-CF3F3A09B77D}"><level name="build" id="13.4.2507.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ARCHDESK"><level name="release" id="2022"><level name="master" id="{28B89EEF-5104-0409-4102-CF3F3A09B77D}"><level name="build" id="8.4.49.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="CIV3D"><level name="release" id="2022"><level name="master" id="{28B89EEF-5100-0409-1102-CF3F3A09B77D}"><level name="build" id="13.4.2507.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="CIV3D"><level name="release" id="2022"><level name="master" id="{28B89EEF-5100-0409-2102-CF3F3A09B77D}"><level name="build" id="13.4.2507.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ACDLT"><level name="release" id="2027"><level name="master" id="{28B89EEF-A109-0409-2102-CF3F3A09B77D}"><level name="build" id="26.0.118.0.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ACD"><level name="release" id="2027"><level name="master" id="{28B89EEF-A101-0409-1102-CF3F3A09B77D}"><level name="build" id="26.0.118.0.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ARCHDESK"><level name="release" id="2027"><level name="master" id="{28B89EEF-A104-0000-4102-CF3F3A09B77D}"><level name="build" id="8.9.64.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ARCHDESK"><level name="release" id="2027"><level name="master" id="{28B89EEF-A104-0409-4102-CF3F3A09B77D}"><level name="build" id="8.9.51.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ARCHDESK"><level name="release" id="2027"><level name="master" id="{28B89EEE-A104-0000-5102-CF3F3A09B77D}"><level name="build" id="8.9.64.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="ACD"><level name="release" id="2027"><level name="master" id="{28B89EEF-A101-0000-0102-CF3F3A09B77D}"><level name="build" id="26.0.118.0.0"/></level></level></level></upivalue>
+<upivalue version="1.0" type="product"><level name="productline" id="VEHTRK"><level name="release" id="2027"><level name="master" id="{1F998EA5-D0D7-4D78-AF61-65828DBEE474}"><level name="build" id="27.1.0.2955"/></level></level></level></upivalue>
+</upipackage> (maxCount 1)
+[10/09/26 17:23:26] info     set legacy options: /APPXML "<AppInformation name=\"Autodesk Civil 3D 2027\" version=\"13.9.1308.0\" />"
+[10/09/26 17:23:26] info     Setting key RP/AppXML, value <AppInformation name="Autodesk Civil 3D 2027" version="13.9.1308.0" /> (maxCount 100)
+[10/09/26 17:23:26] info     Setting key RP/CadSettingsRegPath, value Software\Autodesk\AutoCAD\R26.0\ACAD-A100:409\CadManagerControl\CustomerErrorReport (maxCount 1)
+[10/09/26 17:23:26] info     Setting key RP/AppLocaleId, value 1033 (maxCount 1)
+[10/09/26 17:23:26] info     Setting key RP/AppXML, value <ProductInformation name ="AutoCAD" build_version="X.118.0.0(x64)" registry_version="26.0" install_id_string="15FCE767F24F74D1" registry_localeID="1033" git_commit_id="2c19eb970fc25f5e380f0bd3736f8ba9103aade4" /> (maxCount 100)
+[10/09/26 17:23:26] info     Setting key SP/THEME_TYPE, value Blue (maxCount 1)
+[10/09/26 17:23:26] info     Setting key SP/EXCEPTION_INFO_POINTER, value 140732748760344 (maxCount 1)
+[10/09/26 17:23:26] info     Setting key SP/THREAD_ID, value 4294967295 (maxCount 1)
+[10/09/26 17:23:26] info     Get key SP/THREAD_ID, index 0: "4294967295"
+[10/09/26 17:23:26] info     Setting key SP/WER, value 0 (maxCount 1)
+[10/09/26 17:23:26] info     Get key SP/WER, index 0: "0"
+[10/09/26 17:23:26] info     Registered C:\Program Files\Autodesk\AutoCAD 2027\cer.dll as WER runtime exception module
+[10/09/26 17:23:26] info     Current ErrorMode is 32769
+[10/09/26 17:23:26] debug    Receiver ping: pong
